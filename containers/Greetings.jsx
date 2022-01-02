@@ -34,11 +34,11 @@ const Greetings = () => {
 										{greetings.title + " "}
 									</h1>
 									<p className="lead text-white">
-										{greetings.description}
+									a Software Engineering student from Ontario, Canada looking for new opportunities to solve problems through technological means. Currently, I am open for Summer 2022 software internship positions. Check out the links below or my <a href="https://drive.google.com/file/d/1OTtwWCKN7c1am6x5v3qAewYOzWIg8YVC/view?usp=sharing">resume</a> for more information about me!
 									</p>
 									<SocialLinks />
 									<div className="btn-wrapper my-4">
-										<Button
+										{/* <Button
 											className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
 											color="default"
 											href={greetings.resumeLink}
@@ -49,7 +49,7 @@ const Greetings = () => {
 											<span className="btn-inner--text">
 												See My Resume
 											</span>
-										</Button>
+										</Button> */}
 									</div>
 								</Col>
 								<Col lg="6">
