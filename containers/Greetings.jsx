@@ -34,7 +34,7 @@ const Greetings = () => {
 										{greetings.title + " "}
 									</h1>
 									<p className="lead text-white">
-									a Software Engineering student from Ontario, Canada looking for new opportunities to solve problems through technological means. Currently, I am open for Summer 2022 software internship positions. Check out the links below or my <a href="https://drive.google.com/file/d/1EMbop7Efac61R1dkLfFHwW4eDRb7tGtv/view?usp=sharing">resume</a> for more information about me!
+									a Software Engineering student from Ontario, Canada looking for new opportunities to solve problems through technological means. Currently, I am open for Summer 2022 software internship positions. Check out the links below or my <a href="https://drive.google.com/file/d/1fJVBUKFaXpB6z8_E9wtiz4zvPjSYlcGq/view?usp=sharing">resume</a> for more information about me!
 									</p>
 									<SocialLinks />
 									<div className="btn-wrapper my-4">
